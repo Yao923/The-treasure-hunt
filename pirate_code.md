@@ -41,6 +41,6 @@ get your fair share of the prize!
 
 Captain      : NAME_HERE
 Quartermaster: Sebastian Bechara
-First mate   : NAME_HERE
+First mate   : Aurelie Lenaerts
 
 
